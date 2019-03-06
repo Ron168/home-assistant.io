@@ -86,6 +86,7 @@ Currently known supported models:
 - KU6100 (port must be set to 8001, and `pip3 install websocket-client` must be executed)
 - KU6290 (port must be set to 8001)
 - KU6400U (port must be set to 8001, and `pip3 install websocket-client` must be executed)
+- KU6400S (port must be set to 8001, and `pip3 install websocket-client` must be executed)
 - KU7000 (port must be set to 8001)
 - M5620 (port must be set to 8001, and `pip3 install websocket-client` must be executed)
 - MU6170UXZG (port must be set to 8001, and `pip3 install websocket-client` must be executed)
